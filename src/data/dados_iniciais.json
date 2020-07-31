@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+          "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM&t=141s"
         },
         {
           "titulo": "SEO com React",
@@ -74,29 +74,33 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "React & React Native",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Cursos de ReactJS na Alura",
+        "url": "https://www.alura.com.br/formacao-react-js"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que é React JS?",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Iniciando no ReactJS",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q&t=53s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como criar app android e ios com JavaScript",
+          "url": "https://www.youtube.com/watch?v=k1vdmXDgMJI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
+          "titulo": "Programei em React JS o Frontend do AirCnC (usando React Hooks como useEffect e useMemo)",
+          "url": "https://www.youtube.com/watch?v=Gmiz-j_K340"
+        },
+        {
+          "titulo": "Iniciando com React Native",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA&t=16s"
+        } 
       ]
     },
     {
@@ -104,20 +108,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Eu sou a lenda",
+          "url": "https://www.youtube.com/watch?v=k7v9zdPPrgI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O Resgate Do Soldado Ryan",
+          "url": "https://www.youtube.com/watch?v=FF0etPSFeao"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Alladin",
+          "url": "https://www.youtube.com/watch?v=JcMtWwiyzpU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Vingadores: Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
         }
       ]
     },
@@ -130,54 +134,24 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "World War z",
+          "url": "https://www.youtube.com/watch?v=1vvLi4Pwjf4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Sprite Box",
+          "url": "https://www.youtube.com/watch?v=mpBqNDpEP2M&t=4s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "GTA 5",
+          "url": "https://www.youtube.com/watch?v=dg6lO1Pv7Ws"
+        },
+        {
+          "titulo": "Call of Duty Modern Warfare",
+          "url": "https://www.youtube.com/watch?v=Afdsjx0xK38"
         },
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
