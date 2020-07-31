@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Se você quer aprender a programar de verdade e conseguir um emprego como programador, treinar através de projetos interessantes é, na minha opinião, a melhor escolha para você aumentar as chances disto acontecer. Nesse vídeo eu agrego 10 projetos rápidos e interessantes para você programar que vai envolver vários conhecimentos em backend, frontend, desenvolvimento web, desenvolvimento mobile, aplicativo desktop e full stack num geral."}
       />
 
       <Carousel
@@ -35,11 +35,7 @@ function Home() {
 
       <Carousel
         category={dadosIniciais.categorias[4]}
-      />      
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      />      
+      />          
 
       <Footer />
     </div>
