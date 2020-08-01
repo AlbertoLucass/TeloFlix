@@ -1,16 +1,253 @@
 {
-    "categorias":[
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacana",
-            "cor": "#cbd1ff"
-        },{
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria bacana",
-            "cor": "#cbd1ff"
-        }
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Trending",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Em alta",
+        "url": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Como foi programar meu primeiro jogo multiplayer",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Meu primeiro jogo multiplayer",
+        "url": "https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Tudo sobre Data Science e Inteligência Artificial",
+        "url": "https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Merchandising",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Pagando os boletos",
+        "url": "https://www.youtube.com/results?search_query=propaganda+michel+telo+"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Músicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "Sucesso por todo o Brasil",
+        "url": "https://www.youtube.com/results?search_query=michel+telo"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+      "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM&t=141s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+      "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Michel Teló - CASAL MODÃO - Churrasco do Teló - EP Quintal",
+      "url": "https://www.youtube.com/watch?v=gua3DvE9_UM"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Os 3 Livros Que Fizeram Eu Não Desistir da Programação (e o que aprendi com eles)",
+      "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Brasileiro programa Inteligência Artificial que aprende a DIRIGIR SOZINHA!!! [Machine Learning]",
+      "url": "https://www.youtube.com/watch?v=iCbks6Q-xfM"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Michel Teló - Ai Se Eu Te Pego - Video Oficial (Assim você me mata)",
+      "url": "https://www.youtube.com/watch?v=hcm55lU9knw"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+      "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Como foi programar meu Primeiro Jogo Multiplayer (playlist sobre Desenvolvimento de Jogos)",
+      "url": "https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Como usei JavaScript + Node.js + Socket.io para programar o Frontend e Backend do meu Jogo",
+      "url": "https://www.youtube.com/watch?v=_v6FxZNXvN4&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=2"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Tutorial de como hospedar o Jogo Multiplayer (Como o servidor VPS da HostGator se saiu?)",
+      "url": "https://www.youtube.com/watch?v=BN5gOkR2JIE&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=3"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Editor de Código sensacional para Programador Frontend, Backend ou Full Stack",
+      "url": "https://www.youtube.com/watch?v=Q7YfzbJRzm0&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=4"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Um dos conceitos mais importantes na Programação!",
+      "url": "https://www.youtube.com/watch?v=P5kfA6ncOs8&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=5"
+    },
 
-    ]
+
+
+
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Teste do código MAL FEITO (quero ver você passar!)",
+      "url": "https://www.youtube.com/watch?v=RJvktZnZn6A&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=6"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Você nunca mais vai conseguir ler um código da mesma forma...",
+      "url": "https://www.youtube.com/watch?v=4OLCrClb_So&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=7"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)",
+      "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Duvido você programar um algoritmo mais rápido que o meu!!!",
+      "url": "https://www.youtube.com/watch?v=UauiAPQb3fs&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=9"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "O futuro do JavaScript é programar dessa forma aqui!",
+      "url": "https://www.youtube.com/watch?v=jA5XX7Fd8Ys&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=10"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "Me veja programar um Backend que troca informação em tempo-real!",
+      "url": "https://www.youtube.com/watch?v=rc3SSOiwTns&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=11"
+    },
+    {
+      "id": 19,
+      "categoriaId": 2,
+      "titulo": "WebSockets na prática é MUITO poderoso!!! (JavaScript + Socket.io + Node.js)",
+      "url": "https://www.youtube.com/watch?v=bQ7NNSyGV2U&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=12"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "Qual a diferença entre Inteligência Artificial, Machine Learning, Data Science, Deep Learning, etc?",
+      "url": "https://www.youtube.com/watch?v=ccZ2pyr3YDw&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "MELHOR FORMA DE APRENDER PYTHON (Google Colab Notebook)",
+      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&index=2"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "Data Science: Introdução a Ciência de Dados (Primeira aula prática programando em Python)",
+      "url": "https://www.youtube.com/watch?v=F608hzn_ygo&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&index=3"
+    },
+    {
+      "id": 23,
+      "categoriaId": 3,
+      "titulo": "Machine Learning: Tutorial prático usando apenas o navegador (é sensacional!!!)",
+      "url": "https://www.youtube.com/watch?v=JyGGMyR3x5I&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&index=4"
+    },
+    {
+      "id": 24,
+      "categoriaId": 3,
+      "titulo": "Data Visualization: crie os melhores gráficos para os seus dados",
+      "url": "https://www.youtube.com/watch?v=qLiEDvs57nk&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&index=5"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "(NOVIDADE) Na conta PagBank seu dinheiro rende mais que a poupança!",
+      "url": "https://www.youtube.com/watch?v=sTA_1DfW1bU"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "PagSeguro - Michel Teló",
+      "url": "https://www.youtube.com/watch?v=5KpB8I7r1eY"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "🎵 OLÉ CONTA RENDEIRA OLÉ CONTA QUE DÁ 🎶",
+      "url": "https://www.youtube.com/watch?v=Mq8cHCbXEh8"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Minizinha - Tá todo mundo usando",
+      "url": "https://www.youtube.com/watch?v=DoQWmkvcW6w"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "Michel Teló - CASAL MODÃO - Churrasco do Teló - EP Quintal",
+      "url": "https://www.youtube.com/watch?v=gua3DvE9_UM"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Michel Teló - Fugidinha [VIDEO OFICIAL]",
+      "url": "https://www.youtube.com/watch?v=PJkZo-kS6wk"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Michel Teló - Por Trás da Maquiagem part. Marília Mendonça | DVD Bem Sertanejo",
+      "url": "https://www.youtube.com/watch?v=Xzmr3qGSAMM&list=RDEM5LUdHsjmQgnzBb9jUz1SfA&index=9"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Michel Teló - Ai Se Eu Te Pego - Video Oficial (Assim você me mata)",
+      "url": "https://www.youtube.com/watch?v=hcm55lU9knw"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "Michel Teló part Gusttavo Lima - Implorando Pra Trair (CLIPE OFICIAL)",
+      "url": "https://www.youtube.com/watch?v=SComiI0cAH0&list=RDEM5LUdHsjmQgnzBb9jUz1SfA&index=15"
+    }
+  ]
 }
